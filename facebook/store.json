@@ -1,0 +1,95 @@
+{
+    "writers": [
+        {
+            "id": "ralp-waldo-emerson",
+            "name":"Ralp Waldo Emerson",
+            "born":"25 May 1803",
+            "deceased":"27 April 1882",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg/220px-Ralph_Waldo_Emerson_ca1857_retouched.jpg"
+        },
+        {
+            "id": "Friedrich-Nietzche",
+            "name":"Friedrich Nietzche",
+            "born":"21 Desember 1988",
+            "deceased":"25 Agustus 1900",
+            "description":"ietzsche was a German philosopher, essayist, and cultural critic. His writings on truth, morality, language, aesthetics, cultural theory, history, nihilism, power, consciousness, and the meaning of existence have exerted an enormous influence on Western philosophy and intellectual history.",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/225px-Nietzsche187a.jpg"
+        },
+        {
+            "id": "carl-jung",
+            "name":"Carl Jung",
+            "born":"26 Juli 1875",
+            "deceased":"6 Juni 1961",
+            "description":"arl Jung, in full Carl Gustav Jung, (born July 26, 1875, Kesswil, Switzerland—died June 6, 1961, Küsnacht), Swiss psychologist and psychiatrist who founded analytic psychology, in some aspects a response to Sigmund Freud’s psychoanalysis. Jung proposed and developed the concepts of the extraverted and the introverted personality, archetypes, and the collective unconscious. His work has been influential in psychiatry and in the study of religion, literature, and related fields.",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGJung.jpg/220px-CGJung.jpg"
+        },
+        {
+            "id": "joseph-campbell",
+            "name":"Joseph Campbell",
+            "born":"26 Maret 1904",
+            "deceased":"30 Oktober 1987",
+            "description":"Joseph Campbell, (born March 26, 1904, New York, New York, U.S.—died October 30, 1987, Honolulu, Hawaii), prolific American author and editor whose works on comparative mythology examined the universal functions of myth in various human cultures and mythic figures in a wide range of literatures.",
+            "image":"https://upload.wikimedia.org/wikipedia/en/f/f9/Joseph_Campbell_circa_1982.jpg"
+        },
+        {
+            "id": "osho",
+            "name":"Rajneesh(Osho)",
+            "born":"11 Desember 1931",
+            "deceased":"19 Januari 1990",
+            "description":"Bhagwan Shree Rajneesh, also called Osho or Acharya Rajneesh, original name Chandra Mohan Jain, (born December 11, 1931, Kuchwada [now in Madhya Pradesh], India—died January 19, 1990, Pune), Indian spiritual leader who preached an eclectic doctrine of Eastern mysticism, individual devotion, and sexual freedom.",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Osho.jpg/275px-Osho.jpg"
+        }
+    ],
+    "texts": [
+        {
+            "id": "self-reliance",
+            "writerId":"ralp-waldo-emerson",
+            "title":"Self Reliance",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "published": 1841
+        },
+        {
+            "id": "self-reliance-peace",
+            "writerId":"ralp-waldo-emerson",
+            "title":"Self Reliance Peace",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "published": 1881
+        },
+        {
+            "id": "love-peace",
+            "writerId":"carl-jung",
+            "title":"Love Peace",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "published": 1885
+        },
+        {
+            "id": "the-hero-with-a-thousand-faces",
+            "writerId":"joseph-campbell",
+            "title":"The Hero With a Thousand Faces",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "published": 1995
+        },
+        {
+            "id": "the-power-of-myth",
+            "writerId":"joseph-campbell",
+            "title":"The Power of Myth",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "published": 1988
+        },
+        {
+            "id": "the-book-of-secret-power-of-myth",
+            "writerId":"osho",
+            "title":"The book of Secret Power of Myth",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "published": 1975
+        },
+        {
+            "id": "the-book-of-secret-power-of-myth-God",
+            "writerId":"osho",
+            "title":"The book of Secret Power of Myth God",
+            "description":"Emerson was the son of the Reverend William Emerson, a Unitarian clergyman and friend of the arts. The son inherited the profession of divinity, which had attracted all his ancestors in direct line from Puritan days. The family of his mother, Ruth Haskins, was strongly Anglican, and among influences on Emerson were such Anglican writers and thinkers as Ralph Cudworth, Robert Leighton, Jeremy Taylor, and Samuel Taylor Coleridge.",
+            "published": 1979
+        }
+    ]
+}
